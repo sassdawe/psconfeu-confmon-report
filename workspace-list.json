@@ -1,0 +1,81 @@
+[
+  {
+    "createdDate": "2023-06-20T13:29:24.4316636Z",
+    "customerId": "ef6a6001-856d-4113-aca7-c9f2a713eae1",
+    "features": {
+      "enableLogAccessUsingOnlyResourcePermissions": true
+    },
+    "id": "/subscriptions/004558f1-0f46-4c95-a35c-5bd37f0b5591/resourceGroups/acceptance/providers/Microsoft.OperationalInsights/workspaces/log-prague-acc",
+    "location": "eastus2",
+    "modifiedDate": "2023-06-21T09:14:39.2696167Z",
+    "name": "log-prague-acc",
+    "provisioningState": "Succeeded",
+    "publicNetworkAccessForIngestion": "Enabled",
+    "publicNetworkAccessForQuery": "Enabled",
+    "resourceGroup": "acceptance",
+    "retentionInDays": 30,
+    "sku": {
+      "lastSkuUpdate": "2023-06-20T13:29:24.4316636Z",
+      "name": "PerGB2018"
+    },
+    "type": "Microsoft.OperationalInsights/workspaces",
+    "workspaceCapping": {
+      "dailyQuotaGb": -1.0,
+      "dataIngestionStatus": "RespectQuota",
+      "quotaNextResetTime": "2023-06-21T18:00:00Z"
+    }
+  },
+  {
+    "createdDate": "2023-06-20T12:51:21.1062604Z",
+    "customerId": "5cc00d36-642b-41e6-83df-5cae9df89ffd",
+    "features": {
+      "enableLogAccessUsingOnlyResourcePermissions": true
+    },
+    "id": "/subscriptions/004558f1-0f46-4c95-a35c-5bd37f0b5591/resourceGroups/development/providers/Microsoft.OperationalInsights/workspaces/log-prague-dev",
+    "location": "eastus2",
+    "modifiedDate": "2023-06-21T09:14:36.0956998Z",
+    "name": "log-prague-dev",
+    "provisioningState": "Succeeded",
+    "publicNetworkAccessForIngestion": "Enabled",
+    "publicNetworkAccessForQuery": "Enabled",
+    "resourceGroup": "development",
+    "retentionInDays": 30,
+    "sku": {
+      "lastSkuUpdate": "2023-06-20T12:51:21.1062604Z",
+      "name": "PerGB2018"
+    },
+    "tags": {},
+    "type": "Microsoft.OperationalInsights/workspaces",
+    "workspaceCapping": {
+      "dailyQuotaGb": -1.0,
+      "dataIngestionStatus": "RespectQuota",
+      "quotaNextResetTime": "2023-06-22T08:00:00Z"
+    }
+  },
+  {
+    "createdDate": "2023-06-20T13:29:29.6947739Z",
+    "customerId": "1080e517-47b9-4c40-9554-2e5a92961c7f",
+    "features": {
+      "enableLogAccessUsingOnlyResourcePermissions": true
+    },
+    "id": "/subscriptions/004558f1-0f46-4c95-a35c-5bd37f0b5591/resourceGroups/production/providers/Microsoft.OperationalInsights/workspaces/log-prague-prod",
+    "location": "eastus2",
+    "modifiedDate": "2023-06-21T09:14:42.5799882Z",
+    "name": "log-prague-prod",
+    "provisioningState": "Succeeded",
+    "publicNetworkAccessForIngestion": "Enabled",
+    "publicNetworkAccessForQuery": "Enabled",
+    "resourceGroup": "production",
+    "retentionInDays": 30,
+    "sku": {
+      "lastSkuUpdate": "2023-06-20T13:29:29.6947739Z",
+      "name": "PerGB2018"
+    },
+    "type": "Microsoft.OperationalInsights/workspaces",
+    "workspaceCapping": {
+      "dailyQuotaGb": -1.0,
+      "dataIngestionStatus": "RespectQuota",
+      "quotaNextResetTime": "2023-06-22T00:00:00Z"
+    }
+  }
+]
