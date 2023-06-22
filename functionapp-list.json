@@ -192,7 +192,7 @@
     "isXenon": false,
     "keyVaultReferenceIdentity": "SystemAssigned",
     "kind": "functionapp",
-    "lastModifiedTimeUtc": "2023-06-21T11:59:42.676666",
+    "lastModifiedTimeUtc": "2023-06-22T08:22:13.38",
     "location": "East US 2",
     "maxNumberOfWorkers": null,
     "name": "func-prague-dev",
